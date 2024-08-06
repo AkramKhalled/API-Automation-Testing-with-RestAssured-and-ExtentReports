@@ -1,2 +1,21 @@
-# API-Automation-Testing-with-RestAssured-and-ExtentReports
-This project provides automated tests for a vacation requesting system using RestAssured for API testing and ExtentReports for HTML reporting. It covers vacation request submission, approval workflows, and error handling. The project includes tests for login functionalities, role-based access, leave request submissions, and leave request handling.
+# Vacation Requesting System - API Test Automation
+
+This project contains automated API tests for a vacation requesting system. The tests are designed using TestNG, JSON.simple, and RestAssured libraries to ensure the functionality and reliability of the system.
+
+## Project Structure
+
+- **Tests/**: Contains the test classes for various API endpoints.
+- **ExtentReportUtil.java**: Utility class for generating Extent Reports.
+- **Test.xml**: Test suite configuration file.
+- **README.md**: Project documentation.
+
+## Prerequisites
+
+Before running the tests, ensure you have the following installed:
+
+- Java Development Kit (JDK) 8 or higher
+- IntelliJ IDEA or any preferred Java IDE
+- Maven
+- TestNG
+- JSON.simple
+- RestAssured
