@@ -6,7 +6,7 @@ This project contains automated API tests for a vacation requesting system. The 
 
 - **Tests/**: Contains the test classes for various API endpoints.
 - **ExtentReportUtil.java**: Utility class for generating Extent Reports.
-- **TestsSuite.xml**: Test suite configuration file.
+- **TestSuite.xml**: Test suite configuration file.
 - **README.md**: Project documentation.
 
 ## Prerequisites
